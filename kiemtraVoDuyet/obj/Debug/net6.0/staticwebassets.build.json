@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "milhqIehIZrcr8wfkd90xO6PKJN6vyt26JJXMZEaaTY=",
+  "Source": "kiemtraVoDuyet",
+  "BasePath": "_content/kiemtraVoDuyet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "kiemtraVoDuyet\\wwwroot",
+      "Source": "kiemtraVoDuyet",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\kiemtraVoDuyet\\kiemtraVoDuyet\\wwwroot\\",
+      "BasePath": "_content/kiemtraVoDuyet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\kiemtraVoDuyet\\kiemtraVoDuyet\\wwwroot\\images\\30099631-2152-4b47-bc30-1524e44c0a10.jpg",
+      "SourceId": "kiemtraVoDuyet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\kiemtraVoDuyet\\kiemtraVoDuyet\\wwwroot\\",
+      "BasePath": "_content/kiemtraVoDuyet",
+      "RelativePath": "images/30099631-2152-4b47-bc30-1524e44c0a10.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\30099631-2152-4b47-bc30-1524e44c0a10.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\kiemtraVoDuyet\\kiemtraVoDuyet\\wwwroot\\images\\4ff5f1fd-3f46-4a01-9255-420b4712f528.jpg",
+      "SourceId": "kiemtraVoDuyet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\kiemtraVoDuyet\\kiemtraVoDuyet\\wwwroot\\",
+      "BasePath": "_content/kiemtraVoDuyet",
+      "RelativePath": "images/4ff5f1fd-3f46-4a01-9255-420b4712f528.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4ff5f1fd-3f46-4a01-9255-420b4712f528.jpg"
+    }
+  ]
+}
